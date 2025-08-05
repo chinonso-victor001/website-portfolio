@@ -37,16 +37,16 @@ It features:
 
 ## 👨🏾‍🎓 Educational Background 
 
-- B.Sc. Business Management, University of Nigeria Nsukka      -     2019 — 2023
-- Senior Secondary School, Washington Memorial Grammar School  -     2012 — 2018
+- B.Sc. Business Management, University of Nigeria Nsukka                             -       2019 — 2023
+- Senior Secondary School, Washington Memorial Grammar School                         -       2012 — 2018
 
 ---
 
 ## 🖋️ Contact Me
 
-📌 Enugu, Nigeria 
-📧 chinonsovictor137@gmail.com 
-☎️ +234 8162364391
+- 📌 Enugu, Nigeria 
+- 📧 chinonsovictor137@gmail.com 
+- ☎️ +234 8162364391
 
 ---
 
