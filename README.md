@@ -23,6 +23,33 @@ It features:
 
 ---
 
+## 👨🏾‍🦱 About Me
+
+> I am passionate about blending business insight with digital creativity to build impactful, user-focused web experiences. With a background in Business Management and a growing proficiency in web development, I bring a strategic approach to design, functionality, and problem-solving. Let’s turn bold ideas into clean, functional realities.
+
+- **Full Name:** - Okorie Chinonso Victor
+- **Role:** - Business Management Graduate | Developer | Strategic Thinker
+- **Tech Stack:** - HTML, CSS, JAVASCRIPT, PHP, REACT, and AI.
+- **Currently Learning:** - Software Development, Responsive Websites, Web Design
+- **Education:** - B.Sc. Business Management, University of Nigeria Nsukka
+
+---
+
+## 👨🏾‍🎓 Educational Background 
+
+- B.Sc. Business Management, University of Nigeria Nsukka      -     2019 — 2023
+- Senior Secondary School, Washington Memorial Grammar School  -     2012 — 2018
+
+---
+
+## 🖋️ Contact Me
+
+📌 Enugu, Nigeria 
+📧 chinonsovictor137@gmail.com 
+☎️ +234 8162364391
+
+---
+
 ## 🎇 Features
 
 - Fully responsive on mobile, tablet, and desktop
