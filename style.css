@@ -347,4 +347,11 @@ footer {
     margin-top: 20px;
 }
 
+@media screen and (max-width:768px){
+  .home{
+   width: 80%
+}
+}
+
+
 
